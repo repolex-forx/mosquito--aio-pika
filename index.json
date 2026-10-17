@@ -1,0 +1,11 @@
+{
+  "org": "mosquito",
+  "repo": "aio-pika",
+  "versions": [
+    {
+      "commit": "39cc074a26375cc8d9d66648cbaf08a7eaff1dec",
+      "tag": "10.1.1",
+      "parsed_at": "2026-10-17T00:18:12.167668+00:00"
+    }
+  ]
+}
