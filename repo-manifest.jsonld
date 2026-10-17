@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/mosquito/aio-pika/commit/39cc074a26375cc8d9d66648cbaf08a7eaff1dec",
       "git:hexsha": "39cc074a26375cc8d9d66648cbaf08a7eaff1dec",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "10.1.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "10.1.1",
+      "repolex:parsedAt": "2026-10-17T00:18:12.166608+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mosquito/aio-pika/commit/4f35d68791f44622e0833a136f05c88d0f0d360a",
